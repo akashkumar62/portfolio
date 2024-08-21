@@ -1,14 +1,12 @@
 
 {
-  "images": [
-    "https://news.mit.edu/sites/default/files/images/201809/MIT-Nano-01.jpg",
-    "https://news.mit.edu/sites/default/files/images/201809/MIT-Nano-01.jpg",
-    "https://news.mit.edu/sites/default/files/images/201809/MIT-Nano-01.jpg",
-    "https://news.mit.edu/sites/default/files/images/201809/MIT-Nano-01.jpg",
-    "https://news.mit.edu/sites/default/files/images/201809/MIT-Nano-01.jpg",
-    "https://news.mit.edu/sites/default/files/images/201809/MIT-Nano-01.jpg",
-    "https://news.mit.edu/sites/default/files/images/201809/MIT-Nano-01.jpg",
-    "https://news.mit.edu/sites/default/files/images/201809/MIT-Nano-01.jpg"
-    // Add more image URLs here
-  ]
+    "images": [
+        "https://news.mit.edu/sites/default/files/images/201809/MIT-Nano-01.jpg",
+        "https://news.mit.edu/sites/default/files/images/201809/MIT-Nano-01.jpg",
+        "https://news.mit.edu/sites/default/files/images/201809/MIT-Nano-01.jpg",
+        "https://news.mit.edu/sites/default/files/images/201809/MIT-Nano-01.jpg",
+        "https://news.mit.edu/sites/default/files/images/201809/MIT-Nano-01.jpg",
+        "https://news.mit.edu/sites/default/files/images/201809/MIT-Nano-01.jpg",
+        "https://news.mit.edu/sites/default/files/images/201809/MIT-Nano-01.jpg",
+        "https://news.mit.edu/sites/default/files/images/201809/MIT-Nano-01.jpg"]
 }
