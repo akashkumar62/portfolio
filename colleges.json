@@ -1,1 +1,45 @@
 
+{
+  "collaborations": [
+    {
+      "imageUrl": "https://logowik.com/content/uploads/images/mit-massachusetts-institute-of-technology9237.logowik.com.webp",
+      "alt": "MIT Logo 1"
+    },
+    {
+      "imageUrl": "https://logowik.com/content/uploads/images/mit-massachusetts-institute-of-technology9237.logowik.com.webp",
+      "alt": "MIT Logo 2"
+    },
+    {
+      "imageUrl": "https://logowik.com/content/uploads/images/mit-massachusetts-institute-of-technology9237.logowik.com.webp",
+      "alt": "MIT Logo 2"
+    },
+    {
+      "imageUrl": "https://logowik.com/content/uploads/images/mit-massachusetts-institute-of-technology9237.logowik.com.webp",
+      "alt": "MIT Logo 2"
+    }
+    
+  ],
+  "scholarships": [
+    {
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4KF0bk-SRAl5m6sI_pC75pQu7jNv7zHprLQ&s",
+      "alt": "Scholarship 1",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit."
+    },
+    {
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4KF0bk-SRAl5m6sI_pC75pQu7jNv7zHprLQ&s",
+      "alt": "Scholarship 2",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit."
+    },
+    {
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4KF0bk-SRAl5m6sI_pC75pQu7jNv7zHprLQ&s",
+      "alt": "Scholarship 1",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit."
+    },
+    {
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4KF0bk-SRAl5m6sI_pC75pQu7jNv7zHprLQ&s",
+      "alt": "Scholarship 1",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit."
+    }
+   
+  ]
+}
