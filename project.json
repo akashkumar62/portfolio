@@ -1,1 +1,25 @@
+[
+  {
+    "title": "Project 1",
+    "description": "This is a brief description of Project 1.",
+    "imageUrl": "https://projectsly.com/images/blog/best-project-design.png?v=1686553999071005322",
+    "link": "https://github.com/yourusername/project1",
+    "detailedDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s...",
+    "additionalImages": [
+      "https://projectsly.com/images/blog/best-project-design.png?v=1686553999071005322",
+      "https://projectsly.com/images/blog/best-project-design.png?v=1686553999071005322"
+    ]
+  },
+  {
+    "title": "Project 2",
+    "description": "This is a brief description of Project 2.",
+    "imageUrl": "https://linktoimage.com",
+    "link": "https://github.com/yourusername/project2",
+    "detailedDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry...",
+    "additionalImages": [
+      "https://linktoimage1.com",
+      "https://linktoimage2.com"
+    ]
+  }
+]
 
