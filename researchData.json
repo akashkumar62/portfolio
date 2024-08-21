@@ -1,7 +1,7 @@
 {
   "researchFields": [
     {
-      "imageUrl": "https://example.com/research-image1.jpg",
+      "imageUrl": "https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU",
       "title": "Research Field 1",
       "description": "Description of research field 1...",
       "links": {
@@ -11,7 +11,7 @@
       }
     },
     {
-      "imageUrl": "https://example.com/research-image2.jpg",
+      "imageUrl": "https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU",
       "title": "Research Field 2",
       "description": "Description of research field 2...",
       "links": {
@@ -21,7 +21,7 @@
       }
     },
     {
-      "imageUrl": "https://example.com/research-image3.jpg",
+      "imageUrl": "https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU",
       "title": "Research Field 3",
       "description": "Description of research field 3...",
       "links": {
